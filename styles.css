@@ -1,0 +1,33 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+}
+
+.grid {
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    margin: 20px auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.grid div {
+    width: 20px;
+    height: 20px;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+}
+
+.invader {
+    background-color: black;
+}
+
+.shooter {
+    background-color: blue;
+}
+
+.laser {
+    background-color: red;
+}
