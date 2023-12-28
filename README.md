@@ -1,3 +1,4 @@
+Try it here: https://sammshen.github.io/Space-Invaders/   
 Web-Based Space Invaders using plain JS (no frameworks or libraries)  
 My first dynamic JS web application.  
       
